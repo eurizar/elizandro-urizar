@@ -1,0 +1,23 @@
+🧪 Experimento: Huevo que flota
+🎯 Objetivo:
+Observar cómo cambia la flotabilidad de un objeto al variar la densidad del líquido en el que se encuentra.
+
+🧩 Materiales:
+1 huevo crudo
+1 vaso grande
+Agua
+Sal (aproximadamente 4-5 cucharadas)
+Cuchara
+🔬 Procedimiento:
+Llena el vaso con agua hasta la mitad.
+Coloca suavemente el huevo en el agua. Observa lo que sucede (probablemente se hunde).
+Retira el huevo y agrega sal al agua, una cucharada a la vez, mezclando bien hasta disolverla.
+Vuelve a colocar el huevo en el agua salada.
+Observa cómo ahora el huevo flota.
+📌 Explicación:
+El huevo se hunde en el agua pura porque su densidad es mayor que la del agua. Al añadir sal, la densidad del agua aumenta. Cuando la densidad del agua supera la del huevo, este flota debido al empuje mayor ejercido por el líquido.
+
+🧠 Concepto físico:
+Principio de Arquímedes
+Densidad
+Fuerza de empuje
