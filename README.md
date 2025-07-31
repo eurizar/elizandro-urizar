@@ -1,2 +1,3 @@
-## Mi nombres es Elizandro Urizar
-## vivo en la zona 12 de Coban
+## Mi nombre es Elizandro Urizar
+## estudio en la Universidad Mariano Galvez de Guatemala
+## vivo Coban
